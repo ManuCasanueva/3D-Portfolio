@@ -20,6 +20,8 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import p5 from "./tech/p5.png";
+import material from "./tech/material.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
@@ -37,6 +39,8 @@ export {
   reactLogo,
   cristal,
   lottery,
+  material,
+  p5,
   logo,
   backend,
   creator,

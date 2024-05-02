@@ -5,6 +5,7 @@ import {
     web,
     javascript,
     typescript,
+    p5,
     html,
     css,
     reactjs,
@@ -15,6 +16,7 @@ import {
     git,
     figma,
     docker,
+    material,
     meta,
     starbucks,
     cristal,
@@ -75,8 +77,8 @@ const technologies = [
         icon: javascript,
     },
     {
-        name: "TypeScript",
-        icon: typescript,
+        name: "P5.Js",
+        icon: p5,
     },
     {
         name: "React JS",
@@ -89,6 +91,10 @@ const technologies = [
     {
         name: "Tailwind CSS",
         icon: tailwind,
+    },
+    {
+        name: "material",
+        icon: material,
     },
     {
         name: "Node JS",
@@ -109,10 +115,6 @@ const technologies = [
     {
         name: "figma",
         icon: figma,
-    },
-    {
-        name: "docker",
-        icon: docker,
     },
 ];
 
