@@ -25,6 +25,8 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import cristal from "./company/CristalLogo.png";
+import lottery from "./company/loteryLogo.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -33,6 +35,8 @@ import tripguide from "./tripguide.png";
 
 export {
   reactLogo,
+  cristal,
+  lottery,
   logo,
   backend,
   creator,
