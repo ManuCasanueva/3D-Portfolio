@@ -27,6 +27,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    minecraft,
+    pega,
+    creative
 } from "../assets";
 
 export const navLinks = [
@@ -202,68 +205,74 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Minecraft Helper",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "Using front-end technologies like React, CSS, Material-UI, Konva, and among other tools, I have developed a platform that will allow you to create portal links quickly and easily.But that's not all. I've also included a special feature: a circle blueprint generator.",
         tags: [
             {
                 name: "react",
-                color: "blue-text-gradient",
+                color: "pink-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "css",
                 color: "green-text-gradient",
             },
             {
                 name: "tailwind",
-                color: "pink-text-gradient",
+                color: "blue-text-gradient",
             },
         ],
-        image: carrent,
-        source_code_link: "https://github.com/",
+        image: minecraft,
+        source_code_link: "https://github.com/ManuCasanueva/Minecraft-Helper",
+        source_deploy_link: "https://minecraft-helper.vercel.app/?vercelToolbarCode=TD-bcRBAqZK9yu7",
     },
     {
-        name: "Job IT",
+        name: "Pega 3",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Employing cutting-edge front-end technologies such as React, CSS, Material-UI, Konva, and more, I've engineered a platform dedicated to web scraping lottery numbers and presenting them seamlessly in a single interface.",
         tags: [
             {
                 name: "react",
-                color: "blue-text-gradient",
+                color: "pink-text-gradient",
             },
             {
-                name: "restapi",
+                name: "Web-Scraping",
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
-                color: "pink-text-gradient",
+                name: "tailwind",
+                color: "blue-text-gradient",
             },
         ],
-        image: jobit,
-        source_code_link: "https://github.com/",
+        image: pega,
+        source_code_link: "https://github.com/Schmitz0/Erick-Guerrero-Front",
+        source_deploy_link: "https://www.pegatres.app/",
+
     },
     {
-        name: "Trip Guide",
+        name: "Art Whit Code",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Diving into the realm of creative coding with p5.js at the helm, I've sculpted a digital playground where imagination knows no bounds. Through the fusion of code and creativity, I craft immersive experiences that push the boundaries of possibility. ",
         tags: [
+            // {
+            //     name: "nextjs",
+            //     color: "blue-text-gradient",
+            // },
             {
-                name: "nextjs",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "supabase",
-                color: "green-text-gradient",
-            },
-            {
-                name: "css",
+                name: "P5.js",
                 color: "pink-text-gradient",
             },
+            {
+                name: "Javascript",
+                color: "orange-text-gradient",
+            },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/",
+        image: creative,
+        source_code_link: "https://editor.p5js.org/ManuCasanueva/sketches/g5Z57PJbA",
+        source_deploy_link: "https://editor.p5js.org/ManuCasanueva/sketches/z1DIqIJTG",
+        
     },
+   
 ];
 
 export { services, technologies, experiences, testimonials, projects };

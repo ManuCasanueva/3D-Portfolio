@@ -7,6 +7,11 @@ import reactLogo from './react.png'
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import minecraft from "./minecraft.jpg";
+import pega from "./pega.jpg";
+import creative from "./creative.jpg";
+import link from "./link.png";
+
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -40,6 +45,10 @@ export {
   cristal,
   lottery,
   material,
+  minecraft,
+  pega,
+  creative,
+  link,
   p5,
   logo,
   backend,
