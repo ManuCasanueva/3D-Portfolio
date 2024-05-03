@@ -8,7 +8,6 @@ const Loader = () => {
     <Html>
       <div className="loader-wrapper">
         <div className="loader"></div>
-
       </div>
     </Html>
   );
