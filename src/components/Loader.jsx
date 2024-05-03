@@ -1,7 +1,7 @@
 import { Html, useProgress } from "@react-three/drei";
 import "../utils/Loader.css"; // Archivo CSS para estilos de la rueda giratoria
 
-const Loader = () => {
+const CanvasLoader = () => {
   const { progress } = useProgress();
 
   return (
@@ -13,4 +13,4 @@ const Loader = () => {
   );
 };
 
-export default Loader;
+export default CanvasLoader;
