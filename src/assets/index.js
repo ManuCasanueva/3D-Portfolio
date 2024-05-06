@@ -11,6 +11,7 @@ import minecraft from "./minecraft.jpg";
 import pega from "./pega.jpg";
 import creative from "./creative.jpg";
 import link from "./link.png";
+import manu from "./eagle-escudo.png";
 
 
 import css from "./tech/css.png";
@@ -41,6 +42,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  manu,
   reactLogo,
   cristal,
   lottery,

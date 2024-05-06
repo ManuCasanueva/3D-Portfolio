@@ -250,7 +250,7 @@ const projects = [
 
     },
     {
-        name: "Art Whit Code",
+        name: "Art With Code",
         description:
             "Diving into the realm of creative coding with p5.js at the helm, I've sculpted a digital playground where imagination knows no bounds. Through the fusion of code and creativity, I craft immersive experiences that push the boundaries of possibility. ",
         tags: [
